@@ -1,6 +1,6 @@
 ## This is how I demonstarted the client-server using MYSQL DATABASE MANAGEMENT SYSTEM (DBMS) 
 
-1. I craeted 2 linux based virtual servers (EC2 instances in AWS) named mysql client and mysql server
+1. I created 2 linux based virtual servers (EC2 instances in AWS) named mysql client and mysql server
 
 ![apt update status](./images/1.PNG)
 
